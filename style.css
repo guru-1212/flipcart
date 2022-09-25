@@ -1,0 +1,175 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+background-color: blue;
+height: 41px;
+display: flex;
+
+}
+img{
+height: 30px;
+margin: 5px;
+margin-left: 0px;
+
+}
+input{
+    width: 313px;
+    font-size: large;
+    border-radius: 10px;
+    padding: 14px;
+    height: 30px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+    margin-left: 1px;
+    text-decoration: none;
+    border: none;
+}
+span{
+    border-radius: 4px;
+    font-size: large;
+    padding: 5px;
+    height: 30px;
+    margin: 6px;
+    color: white;
+    font-weight: bold;
+    width: 17px;
+    height: 17px;
+    background-color: white;
+    color: blue;
+    margin-left: 0px;
+}
+button{
+    height: 35px;
+    width: 100px;
+    padding: 5px;
+    background-color: white;
+    color: blue;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    border: none;
+    margin: 4px;
+}
+div a{
+    font-size: large;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 5px;
+    font-weight: bold;
+
+
+}
+.celler{
+    width: auto ;
+    height: 30px;
+    margin-left: 21px;
+}
+section p{
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+   margin-left: 19px;
+
+}
+summary{
+    padding: 8px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 21px;
+   
+}
+li{
+    font-size: 21px;
+    background-color: white ;
+    color: black;
+
+}
+section{
+    height: auto;
+    width: 100%;
+    margin-left: 286px;
+    display: flex;
+}
+.box2 img{
+    border-radius: 39px;
+    margin-left: 200px;
+    width: 222px;
+    height: 234px;
+    margin-top: 171px;
+}
+.box2 img:hover{
+    box-shadow: 5px 5px 20px grey;
+    transition: 0.5s;
+    transition-delay: 0.2s;
+    transition-duration: 0.9s;
+
+}
+.box2{  
+    width: 1268px;
+    height: 500px;
+    display: flex;
+    grid-template-columns: 200px 600px 200px;
+}
+.content{
+    width: 402px;
+    height: auto;
+    margin-left: 38px;
+    margin-top: 97px;
+  }
+  .content p{
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;   
+  }
+  .content p:hover{
+    color: blue;
+    font-weight: bolder;
+  }
+  ul li{
+    list-style: none;
+    font-size: 16px;
+  }
+  ul{
+    margin-left: 34px;
+    font-size: 11px;
+    margin-top: 12px;
+  }
+  .price{
+    margin-top: 171px;
+    margin-left: 31px;
+
+  }
+  .price p{
+    font-size: 26px;
+    font-weight: bolder;
+
+  }
+  .price span p{
+    font-size: 16px;
+    color: black;
+    font-weight: none;
+  }
+  footer{
+    min-width: 400px;
+    height: 500px;
+    background-color: black;
+    color: white;
+
+  }
+  footer .foot{
+    font-size: none;
+    font-weight: none
+    ;
+  }
+
